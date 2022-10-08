@@ -3,7 +3,7 @@
 #Get an email address
 email=input("Enter an email address:")
 
-#Create a function that slices the email address into two parts using the '@' symbol as a separator.
+#Create a function that slices the email address into two parts using the '@' symbol as separator.
 def email_slicer(email):
 
 #Choose the separator    
